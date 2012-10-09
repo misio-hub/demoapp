@@ -3,7 +3,8 @@
 To jest plik informacyjny. (link:www.google.pl)
 To się dzieje po ddwukropku w tej samej linii: lalala
 To sie dzieje po dwukropku ponizej:
-lalala
+
+	lalala
 
 Skadnik A
 	skladnik b
